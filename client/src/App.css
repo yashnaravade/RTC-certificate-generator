@@ -1,0 +1,42 @@
+
+.container-child{
+    background-color: #c35c45;
+    background-image: linear-gradient(to right, #dfdbb5, #e6375a);
+     padding: 15px;
+     border-radius: 20px;
+     margin-bottom: 20px;
+     box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+ }
+ .header-img{
+     width:400px;
+     display:block;
+     margin-left: auto !important;
+     margin-right: auto !important;
+ }
+ 
+ .RTClogo{
+     width:60px;
+     display:block;
+     margin-left: 0 !important;
+ }
+
+ .logo{
+        width:200px !important;
+        display:block;
+        margin-left: 0 !important;
+        border-radius: 50%;
+ }
+ .right-arrow-card{
+    position:absolute;
+
+    right: 30px;
+    top: 70px;
+   width: 40px;
+   height: auto;
+ }
+
+ .progress-bar{
+   width: 69%
+ }
+ 
+ 
